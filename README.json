@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T07:51:07Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38528
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21927
+            "stars": 21929
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-01-31T15:45:35Z",
             "owner": "google-research",
             "repo": "robotics_transformer",
-            "stars": 1744
+            "stars": 1743
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2025-02-20T05:53:06Z",
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 981
+            "stars": 980
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-06-17T00:50:17Z",
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4107
+            "stars": 4108
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7137
+            "stars": 7138
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2024-04-18T18:57:22Z",
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 855
+            "stars": 854
           }
         },
         {
@@ -701,7 +701,7 @@
             "last_commit": "2024-05-09T13:49:18Z",
             "owner": "peract",
             "repo": "peract",
-            "stars": 497
+            "stars": 496
           }
         },
         {
@@ -715,7 +715,7 @@
             "last_commit": "2024-08-12T21:27:29Z",
             "owner": "real-stanford",
             "repo": "scalingup",
-            "stars": 415
+            "stars": 414
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2025-08-25T14:03:57Z",
             "owner": "gen-robot",
             "repo": "RL4VLA",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2026-06-17T00:50:17Z",
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2024-10-07T14:34:25Z",
             "owner": "changhaonan",
             "repo": "A3VLM",
-            "stars": 122
+            "stars": 121
           }
         },
         {
@@ -1021,7 +1021,7 @@
             "last_commit": "2026-06-17T00:50:17Z",
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -1108,10 +1108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:09:16Z",
+            "last_commit": "2026-08-13T14:46:25Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29740
+            "stars": 29739
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-07-21T10:16:05Z",
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3786
+            "stars": 3787
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-10T19:49:50Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1631
+            "stars": 1633
           }
         },
         {
@@ -1310,7 +1310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:01.406Z",
+    "last_updated": "2026-08-13T17:06:03.680Z",
     "original_repository": "GT-RIPL/Awesome-LLM-Robotics",
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Robotics",
