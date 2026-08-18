@@ -53,7 +53,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38562
+            "stars": 38575
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21944
+            "stars": 21955
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2025-02-20T05:53:06Z",
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 980
+            "stars": 981
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4109
+            "stars": 4111
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2025-10-27T18:27:21Z",
             "owner": "flowersteam",
             "repo": "Grounding_LLMs_with_online_RL",
-            "stars": 276
+            "stars": 275
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7144
+            "stars": 7148
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2024-04-18T18:57:22Z",
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2025-08-25T14:03:57Z",
             "owner": "gen-robot",
             "repo": "RL4VLA",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -1108,10 +1108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:48:04Z",
+            "last_commit": "2026-08-18T06:25:14Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29758
+            "stars": 29765
           }
         },
         {
@@ -1139,7 +1139,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3233
+            "stars": 3237
           }
         },
         {
@@ -1164,10 +1164,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:35:43Z",
+            "last_commit": "2026-08-18T02:04:10Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1639
+            "stars": 1640
           }
         },
         {
@@ -1310,7 +1310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:38:27.607Z",
+    "last_updated": "2026-08-18T16:41:52.543Z",
     "original_repository": "GT-RIPL/Awesome-LLM-Robotics",
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Robotics",
