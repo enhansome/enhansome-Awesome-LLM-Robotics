@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38588
+            "stars": 38592
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21960
+            "stars": 21965
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-05-31T01:32:29Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4114
+            "stars": 4116
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7152
+            "stars": 7154
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2023-11-02T10:07:36Z",
             "owner": "cliport",
             "repo": "cliport",
-            "stars": 549
+            "stars": 548
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2023-08-03T16:51:30Z",
             "owner": "CraftJarvis",
             "repo": "MC-Planner",
-            "stars": 294
+            "stars": 293
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2024-03-02T23:09:22Z",
             "owner": "notmahi",
             "repo": "clip-fields",
-            "stars": 191
+            "stars": 190
           }
         },
         {
@@ -1044,7 +1044,7 @@
             "last_commit": "2024-07-09T14:03:26Z",
             "owner": "vlmaps",
             "repo": "vlmaps",
-            "stars": 719
+            "stars": 718
           }
         },
         {
@@ -1104,7 +1104,7 @@
             "last_commit": "2023-12-30T19:27:13Z",
             "owner": "changhaonan",
             "repo": "OVSG",
-            "stars": 73
+            "stars": 72
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-19T23:20:00Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29780
+            "stars": 29787
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-07-21T10:16:05Z",
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3794
+            "stars": 3796
           }
         },
         {
@@ -1200,7 +1200,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3244
+            "stars": 3252
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2024-03-18T18:10:28Z",
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2249
+            "stars": 2250
           }
         },
         {
@@ -1227,10 +1227,10 @@
             "archived": false,
             "id": 439439857,
             "language": "Python",
-            "last_commit": "2026-08-20T02:27:30Z",
+            "last_commit": "2026-08-20T23:55:41Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1643
+            "stars": 1645
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2024-06-26T19:22:02Z",
             "owner": "StanfordVL",
             "repo": "iGibson",
-            "stars": 809
+            "stars": 810
           }
         },
         {
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:45:47.847Z",
+    "last_updated": "2026-08-21T16:45:26.232Z",
     "original_repository": "GT-RIPL/Awesome-LLM-Robotics",
     "original_repository_id": 524119789,
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
