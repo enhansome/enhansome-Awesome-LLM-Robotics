@@ -48,10 +48,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T20:48:11Z",
+            "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38592
+            "stars": 38597
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21965
+            "stars": 21968
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-05-31T01:32:29Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1222
+            "stars": 1223
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7154
+            "stars": 7153
           }
         },
         {
@@ -1167,10 +1167,10 @@
             "archived": false,
             "id": 712225112,
             "language": "Python",
-            "last_commit": "2026-08-19T23:20:00Z",
+            "last_commit": "2026-08-21T21:50:32Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29787
+            "stars": 29793
           }
         },
         {
@@ -1200,7 +1200,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3252
+            "stars": 3254
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-08-20T23:55:41Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1645
+            "stars": 1646
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2026-08-20T01:50:16Z",
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 353
+            "stars": 352
           }
         },
         {
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:45:26.232Z",
+    "last_updated": "2026-08-22T16:35:05.500Z",
     "original_repository": "GT-RIPL/Awesome-LLM-Robotics",
     "original_repository_id": 524119789,
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
