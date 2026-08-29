@@ -14,9 +14,10 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4458
+            "stars": 4459
           },
-          "title": "Please feel free to send me pull requests or email to add papers! Please make sure to put in reverse chronological order and follow the format carefully!"
+          "title": "Please feel free to send me pull requests or email to add papers! Please make sure to put in reverse chronological order and follow the format carefully!",
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Overview"
@@ -36,8 +37,9 @@
             "last_commit": "2024-10-07T19:03:58Z",
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1398
-          }
+            "stars": 1401
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "JeffreyYH",
             "repo": "Awesome-Generalist-Robots-via-Foundation-Models",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Surveys"
@@ -72,8 +75,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38633
-          }
+            "stars": 38642
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -87,8 +91,9 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22005
-          }
+            "stars": 22011
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "google-research",
             "repo": "robotics_transformer",
             "stars": 1743
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2024-05-31T01:32:29Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1224
-          }
+            "stars": 1227
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "huangwl18",
             "repo": "ReKep",
             "stars": 983
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2023-11-10T16:28:38Z",
             "owner": "jimmyyhwu",
             "repo": "tidybot",
-            "stars": 696
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
             "stars": 374
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "Zhoues",
             "repo": "RoboRefer",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "NVlabs",
             "repo": "RoboSpatial",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Zhoues",
             "repo": "RoboTracer",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "clear-nus",
             "repo": "octopi",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "rowanz",
             "repo": "piglet",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "xf-zhao",
             "repo": "Matcha-agent",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "pradippramanick",
             "repo": "coexp-iros24",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Reasoning"
@@ -318,8 +337,9 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4128
-          }
+            "stars": 4131
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -333,8 +353,9 @@
             "last_commit": "2023-09-27T15:25:33Z",
             "owner": "Cranial-XIX",
             "repo": "llm-pddl",
-            "stars": 461
-          }
+            "stars": 462
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "microsoft",
             "repo": "ChatGPT-Robot-Manipulation-Prompts",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "huangwl18",
             "repo": "language-planner",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "flowersteam",
             "repo": "Grounding_LLMs_with_online_RL",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "blazejosinski",
             "repo": "lm_nav",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "minaek",
             "repo": "reward_design_with_llms",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "AIRLab-POLIMI",
             "repo": "BTGenBot",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "ShuangLI59",
             "repo": "Pre-Trained-Language-Models-for-Interactive-Decision-Making",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "soyeonm",
             "repo": "FILM",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "AssassinWS",
             "repo": "LLM-TAMP",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "princeton-nlp",
             "repo": "calm-textgame",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "RishiHazra",
             "repo": "saycanpay",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "yashkant",
             "repo": "housekeep",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "HRI-EU",
             "repo": "AttentiveSupport",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "yding25",
             "repo": "GPT-Planner",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "snumprlab",
             "repo": "flare",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "Kchu",
             "repo": "LABOR-Agent",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "Kchu",
             "repo": "LLM-MAP",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "gdg94",
             "repo": "codellmpersonalize",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "tannl",
             "repo": "FLTRNN",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "wonderful-team-robotics",
             "repo": "wonderful_team_robotics",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "HRI-EU",
             "repo": "Loom",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "snumprlab",
             "repo": "pred",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Planning"
@@ -714,8 +759,9 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7162
-          }
+            "stars": 7164
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "vimalabs",
             "repo": "VIMA",
             "stars": 857
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "cliport",
             "repo": "cliport",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "peract",
             "repo": "peract",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "real-stanford",
             "repo": "scalingup",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "facebookresearch",
             "repo": "r3m",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -805,7 +856,8 @@
             "owner": "dongyh20",
             "repo": "Octopus",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "CraftJarvis",
             "repo": "MC-Planner",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "gen-robot",
             "repo": "RL4VLA",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "PKU-RL",
             "repo": "Plan4MC",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "notmahi",
             "repo": "clip-fields",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "NVlabs",
             "repo": "RoboSpatial",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "penn-pal-lab",
             "repo": "LIV",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "mihdalal",
             "repo": "planseqlearn",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "allenai",
             "repo": "embodied-clip",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "changhaonan",
             "repo": "A3VLM",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "SiyuanHuang95",
             "repo": "ManipVQA",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1032,8 @@
             "owner": "worv-ai",
             "repo": "D2E",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1048,8 @@
             "owner": "arthurfenderbucker",
             "repo": "NL_trajectory_reshaper",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1064,8 @@
             "owner": "SeanJia",
             "repo": "CoTPC",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1080,8 @@
             "owner": "Stanford-ILIAD",
             "repo": "lilac",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "llm-tale",
             "repo": "llm_tale",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1112,8 @@
             "owner": "Zero-coder",
             "repo": "Prompt2Act",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Manipulation"
@@ -1065,8 +1133,9 @@
             "last_commit": "2024-07-09T14:03:26Z",
             "owner": "vlmaps",
             "repo": "vlmaps",
-            "stars": 719
-          }
+            "stars": 720
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1150,8 @@
             "owner": "YicongHong",
             "repo": "Recurrent-VLN-BERT",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1166,8 @@
             "owner": "NVlabs",
             "repo": "RoboSpatial",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1182,8 @@
             "owner": "ForzaETH",
             "repo": "LLMxRobot",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1198,8 @@
             "owner": "changhaonan",
             "repo": "OVSG",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1214,8 @@
             "owner": "arjunmajum",
             "repo": "vln-bert",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1230,8 @@
             "owner": "sparisi",
             "repo": "pvr_habitat",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1246,8 @@
             "owner": "worv-ai",
             "repo": "canvas",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Instructions and Navigation"
@@ -1188,11 +1264,12 @@
             "archived": false,
             "id": 712225112,
             "language": "Python",
-            "last_commit": "2026-08-27T19:56:13Z",
+            "last_commit": "2026-08-28T22:27:33Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29816
-          }
+            "stars": 29822
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1206,8 +1283,9 @@
             "last_commit": "2026-07-21T10:16:05Z",
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3800
-          }
+            "stars": 3802
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1221,8 +1299,9 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3266
-          }
+            "stars": 3268
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1316,8 @@
             "owner": "MineDojo",
             "repo": "MineDojo",
             "stars": 2252
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1248,11 +1328,12 @@
             "archived": false,
             "id": 439439857,
             "language": "Python",
-            "last_commit": "2026-08-27T20:36:18Z",
+            "last_commit": "2026-08-28T18:33:12Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1663
-          }
+            "stars": 1668
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1348,8 @@
             "owner": "StanfordVL",
             "repo": "iGibson",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1364,8 @@
             "owner": "mila-iqia",
             "repo": "babyai",
             "stars": 765
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1380,8 @@
             "owner": "askforalfred",
             "repo": "alfred",
             "stars": 529
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1308,11 +1392,12 @@
             "archived": false,
             "id": 904869925,
             "language": "Python",
-            "last_commit": "2026-08-27T03:11:41Z",
+            "last_commit": "2026-08-28T11:41:06Z",
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1412,8 @@
             "owner": "arnold-benchmark",
             "repo": "arnold",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Simulation Frameworks"
@@ -1348,7 +1434,8 @@
             "owner": "William-wAng618",
             "repo": "roboticAttack",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1450,8 @@
             "owner": "Zxy-MLlab",
             "repo": "BadVLA",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -1378,14 +1466,15 @@
             "owner": "TUM-CPS-HN",
             "repo": "SafeLLMRA",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         }
       ],
       "title": "Safety, Risks, Red Teaming, and Adversarial Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:32.165Z",
+    "last_updated": "2026-08-29T00:31:46.763Z",
     "original_repository_info": {
       "archived": false,
       "id": 524119789,
@@ -1393,7 +1482,7 @@
       "last_commit": "2026-07-17T20:28:18Z",
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4458
+      "stars": 4459
     },
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Robotics",
