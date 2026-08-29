@@ -102,7 +102,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38650,
             "topics": [
               "ai",
               "machine-learning",
@@ -127,7 +127,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22012,
+            "stars": 22017,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7164,
+            "stars": 7166,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1124,7 +1124,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 857,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1224,7 +1224,7 @@
             "open_issues": 9,
             "owner": "facebookresearch",
             "repo": "r3m",
-            "stars": 377,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1803,11 +1803,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:27:33Z",
-            "open_issues": 129,
+            "last_commit": "2026-08-29T13:20:04Z",
+            "open_issues": 130,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29823,
+            "stars": 29830,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 134,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3269,
+            "stars": 3270,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1905,7 +1905,7 @@
             "open_issues": 308,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2004,7 +2004,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -2114,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:02.838Z",
+    "last_updated": "2026-08-29T19:22:08.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
