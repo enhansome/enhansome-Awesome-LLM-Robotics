@@ -18,7 +18,7 @@
             "open_issues": 11,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4464,
+            "stars": 4466,
             "topics": []
           },
           "title": "Please feel free to send me pull requests or email to add papers! Please make sure to put in reverse chronological order and follow the format carefully!",
@@ -102,7 +102,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38769,
+            "stars": 38776,
             "topics": [
               "ai",
               "machine-learning",
@@ -127,7 +127,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22110,
+            "stars": 22114,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -258,7 +258,7 @@
             "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "chatgpt",
               "clip",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -490,7 +490,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4170,
+            "stars": 4172,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -559,7 +559,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7200,
+            "stars": 7203,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1359,7 +1359,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 0,
             "owner": "allenai",
             "repo": "embodied-clip",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1671,7 +1671,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 127,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29952,
+            "stars": 29953,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 135,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3322,
+            "stars": 3329,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1905,7 +1905,7 @@
             "open_issues": 312,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1699,
+            "stars": 1703,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1983,7 +1983,7 @@
             "open_issues": 23,
             "owner": "askforalfred",
             "repo": "alfred",
-            "stars": 531,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2114,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:39:16.505Z",
+    "last_updated": "2026-09-16T19:30:48.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2126,7 +2126,7 @@
       "open_issues": 11,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4464,
+      "stars": 4466,
       "topics": []
     },
     "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
