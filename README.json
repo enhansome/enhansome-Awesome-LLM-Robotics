@@ -102,7 +102,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38832,
+            "stars": 38839,
             "topics": [
               "ai",
               "machine-learning",
@@ -127,7 +127,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22156,
+            "stars": 22163,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -190,7 +190,7 @@
             "open_issues": 37,
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 988,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -353,7 +353,7 @@
             "open_issues": 4,
             "owner": "Zhoues",
             "repo": "RoboTracer",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "robotics",
               "spatial-measuring",
@@ -490,7 +490,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4192,
+            "stars": 4195,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "huangwl18",
             "repo": "language-planner",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "artificial-intelligence",
               "codex",
@@ -613,7 +613,7 @@
             "open_issues": 11,
             "owner": "flowersteam",
             "repo": "Grounding_LLMs_with_online_RL",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "grounding",
               "interactive-agents",
@@ -1098,7 +1098,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7225,
+            "stars": 7231,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1803,11 +1803,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T09:03:11Z",
-            "open_issues": 130,
+            "last_commit": "2026-09-28T14:14:45Z",
+            "open_issues": 144,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29990,
+            "stars": 29992,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3823,
+            "stars": 3825,
             "topics": [
               "ai",
               "computer-vision",
@@ -1853,10 +1853,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 138,
+            "open_issues": 140,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3361,
+            "stars": 3363,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1901,8 +1901,8 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T05:31:27Z",
-            "open_issues": 307,
+            "last_commit": "2026-09-28T20:29:53Z",
+            "open_issues": 309,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
             "stars": 1727,
@@ -1931,7 +1931,7 @@
             "open_issues": 139,
             "owner": "StanfordVL",
             "repo": "iGibson",
-            "stars": 813,
+            "stars": 814,
             "topics": [
               "3d-scenes",
               "robot-simulator",
@@ -2114,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:43:08.896Z",
+    "last_updated": "2026-09-28T21:50:47.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
