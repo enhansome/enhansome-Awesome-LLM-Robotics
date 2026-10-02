@@ -15,7 +15,7 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-17T20:28:18Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
             "stars": 4476,
@@ -102,7 +102,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38859,
+            "stars": 38861,
             "topics": [
               "ai",
               "machine-learning",
@@ -127,7 +127,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22178,
+            "stars": 22184,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -639,7 +639,7 @@
             "open_issues": 2,
             "owner": "blazejosinski",
             "repo": "lm_nav",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7236,
+            "stars": 7237,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1178,7 +1178,7 @@
             "open_issues": 17,
             "owner": "peract",
             "repo": "peract",
-            "stars": 499,
+            "stars": 498,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 1,
             "owner": "notmahi",
             "repo": "clip-fields",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "clip",
               "neural-fields",
@@ -1803,11 +1803,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:13:11Z",
+            "last_commit": "2026-10-01T22:26:43Z",
             "open_issues": 142,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30014,
+            "stars": 30012,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1828,7 +1828,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3829,
+            "stars": 3828,
             "topics": [
               "ai",
               "computer-vision",
@@ -1856,7 +1856,7 @@
             "open_issues": 140,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3371,
+            "stars": 3372,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -2114,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:58:34.478Z",
+    "last_updated": "2026-10-02T20:38:39.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2123,7 +2123,7 @@
       "language": null,
       "license": "BSD-3-Clause",
       "last_commit": "2026-07-17T20:28:18Z",
-      "open_issues": 14,
+      "open_issues": 16,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
       "stars": 4476,
