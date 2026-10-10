@@ -52,6 +52,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "\"No Free Checker: A Survey of Verifiers for Robot Policies\", arXiv, Sep 2026, [Paper",
+          "description": "] [Paper List] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The reading list for No Free Checker: A Survey of Verifiers for Robot Policies.",
+            "homepage": null,
+            "id": 1340382909,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-13T11:31:18Z",
+            "open_issues": 0,
+            "owner": "ZJUSCL",
+            "repo": "Awesome-Robot-Verifier",
+            "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T19:59:27.442Z"
         }
       ],
       "title": "Surveys"
@@ -71,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T17:22:43Z",
+            "last_commit": "2026-10-10T14:34:09Z",
             "open_issues": 1998,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38885,
+            "stars": 38887,
             "topics": [
               "ai",
               "machine-learning",
@@ -100,7 +121,7 @@
             "open_issues": 145,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22205,
+            "stars": 22213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -121,7 +142,7 @@
             "open_issues": 23,
             "owner": "google-research",
             "repo": "robotics_transformer",
-            "stars": 1741,
+            "stars": 1740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -210,7 +231,7 @@
             "open_issues": 0,
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -340,6 +361,33 @@
         },
         {
           "node_type": "item",
+          "title": "Spatial-Interactor: \"Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning Spatial Reasoning through Interaction with the Observable Physical World",
+            "homepage": "https://zju-omniai.github.io/Spatial-Interactor/",
+            "id": 1368647527,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-09T17:16:54Z",
+            "open_issues": 0,
+            "owner": "ZJU-OmniAI",
+            "repo": "Spatial-Interactor",
+            "stars": 85,
+            "topics": [
+              "embodied-ai",
+              "on-policy-distillation",
+              "spatial-reasoning",
+              "video-understanding",
+              "vision-language-model"
+            ]
+          },
+          "first_seen": "2026-10-10T19:59:27.442Z"
+        },
+        {
+          "node_type": "item",
           "title": "Octopi: \"Octopi: Object Property Reasoning with Large Tactile-Language Models\", Robotics: Science and Systems (RSS), June 24. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
@@ -463,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4213,
+            "stars": 4214,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -616,6 +664,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EMem: \"EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks\", arXiv, 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Embodied-Reasoner  Embodied‑Navigator  Embodied‑Memory",
+            "homepage": null,
+            "id": 952589852,
+            "language": "Python",
+            "license": "MulanPSL-2.0",
+            "last_commit": "2026-10-09T17:16:59Z",
+            "open_issues": 9,
+            "owner": "ZJU-OmniAI",
+            "repo": "Embodied-Omni",
+            "stars": 255,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T19:59:27.442Z"
         },
         {
           "node_type": "item",
@@ -1071,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7253,
+            "stars": 7257,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1151,7 +1220,7 @@
             "open_issues": 17,
             "owner": "peract",
             "repo": "peract",
-            "stars": 498,
+            "stars": 497,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1553,6 +1622,40 @@
         },
         {
           "node_type": "item",
+          "title": "APPL: \"Agent Priors-guided Policy Learning\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "APPL is an agentic robot learning framework connecting policy learning with agent-based skill selection and composition through structural priors for generalization from a few demonstrations to new scenes and task compositions.",
+            "homepage": "https://agentics-robotics.github.io/APPL/",
+            "id": 1398956060,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-04T04:07:19Z",
+            "open_issues": 0,
+            "owner": "Agentics-robotics",
+            "repo": "Agent-Priors-guided-Policy-Learning",
+            "stars": 5,
+            "topics": [
+              "agentic-ai",
+              "diffusion-policy",
+              "embodied-ai",
+              "few-shot-learning",
+              "imitation-learning",
+              "llm-agents",
+              "maniskill",
+              "metaworld",
+              "robot-learning",
+              "robotics",
+              "skill-composition",
+              "structural-priors"
+            ]
+          },
+          "first_seen": "2026-10-10T19:59:27.442Z"
+        },
+        {
+          "node_type": "item",
           "title": "Prompt2Act: \"Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models\", arxiv, Sep 2025. [Paper",
           "description": "Zero-coder/Prompt2Act",
           "children": [],
@@ -1776,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T22:12:16Z",
+            "last_commit": "2026-10-10T17:49:20Z",
             "open_issues": 153,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30039,
+            "stars": 30038,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1801,7 +1904,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3832,
+            "stars": 3834,
             "topics": [
               "ai",
               "computer-vision",
@@ -1829,7 +1932,7 @@
             "open_issues": 142,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3385,
+            "stars": 3388,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1857,7 +1960,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2267,
+            "stars": 2268,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1874,11 +1977,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:33:55Z",
+            "last_commit": "2026-10-10T18:17:28Z",
             "open_issues": 311,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1742,
+            "stars": 1744,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2012,6 +2115,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RescueBench: \"RescueBench: Can Embodied Agents Save Lives in the Wild?\", NeurIPS Evaluations and Datasets Track, 2026. [Paper",
+          "description": "UnrealZoo/RescueBench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RescueBench is a search-and-rescue (SAR) benchmark designed for embodied AI, built on Unreal Engine and UnrealZoo. It offers a standardized framework for evaluating AI models in open-world scenarios, featuring multi-stage assessments and progressive difficulty levels. ",
+            "homepage": null,
+            "id": 1254829141,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-04T08:31:32Z",
+            "open_issues": 0,
+            "owner": "UnrealZoo",
+            "repo": "RescueBench",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T19:59:27.442Z"
         }
       ],
       "title": "Simulation Frameworks"
@@ -2087,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:46:59.566Z",
+    "last_updated": "2026-10-10T19:59:27.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2095,14 +2219,14 @@
       "id": 524119789,
       "language": null,
       "license": "BSD-3-Clause",
-      "last_commit": "2026-07-17T20:28:18Z",
-      "open_issues": 18,
+      "last_commit": "2026-10-10T17:40:43Z",
+      "open_issues": 12,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4483,
+      "stars": 4484,
       "topics": []
     },
-    "original_repository_sha": "5d580c574854c468d98c931bcb307c9ae5dc3408",
+    "original_repository_sha": "5671229def92a3e1756eeeb81bd58f062b804f7d",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Robotics",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-Robotics with stars"
