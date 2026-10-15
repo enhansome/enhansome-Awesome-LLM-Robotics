@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T05:46:02Z",
-            "open_issues": 2005,
+            "last_commit": "2026-10-15T02:18:00Z",
+            "open_issues": 2006,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38915,
+            "stars": 38922,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22226,
+            "stars": 22233,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -184,7 +184,7 @@
             "open_issues": 37,
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 988,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -205,7 +205,7 @@
             "open_issues": 0,
             "owner": "jimmyyhwu",
             "repo": "tidybot",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "gpt-3",
               "large-language-models",
@@ -371,7 +371,7 @@
             "id": 1368647527,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T17:16:54Z",
+            "last_commit": "2026-10-15T05:39:01Z",
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
@@ -402,7 +402,7 @@
             "open_issues": 1,
             "owner": "clear-nus",
             "repo": "octopi",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4222,
+            "stars": 4223,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 258,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7260,
+            "stars": 7264,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1266,7 +1266,7 @@
             "open_issues": 9,
             "owner": "facebookresearch",
             "repo": "r3m",
-            "stars": 377,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1287,7 +1287,7 @@
             "open_issues": 6,
             "owner": "dongyh20",
             "repo": "Octopus",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1879,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:17:47Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-15T03:05:39Z",
+            "open_issues": 159,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30057,
+            "stars": 30063,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1904,7 +1904,7 @@
             "open_issues": 269,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3835,
+            "stars": 3836,
             "topics": [
               "ai",
               "computer-vision",
@@ -1932,7 +1932,7 @@
             "open_issues": 144,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3418,
+            "stars": 3421,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1977,11 +1977,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T21:30:49Z",
+            "last_commit": "2026-10-15T06:57:11Z",
             "open_issues": 311,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1749,
+            "stars": 1753,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2159,7 +2159,7 @@
             "open_issues": 8,
             "owner": "William-wAng618",
             "repo": "roboticAttack",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:09:14.555Z",
+    "last_updated": "2026-10-15T19:49:44.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
