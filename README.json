@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1421,
+            "stars": 1422,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -96,7 +96,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38942,
+            "stars": 38959,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 145,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22239,
+            "stars": 22246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4230,
+            "stars": 4234,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 257,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -756,6 +756,27 @@
         },
         {
           "node_type": "item",
+          "title": "FILM: \"FILM: Following Instructions in Language with Modular Methods\", ICLR, Apr 2022. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official repository of ICLR 2022 paper FILM: Following Instructions in Language with Modular Methods",
+            "homepage": null,
+            "id": 461897783,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-04-09T17:22:21Z",
+            "open_issues": 24,
+            "owner": "soyeonm",
+            "repo": "FILM",
+            "stars": 131,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
           "title": "LID: \"Pre-Trained Language Models for Interactive Decision-Making\", arXiv, Feb 2022. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
@@ -771,27 +792,6 @@
             "owner": "ShuangLI59",
             "repo": "Pre-Trained-Language-Models-for-Interactive-Decision-Making",
             "stars": 131,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:31:46.763Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FILM: \"FILM: Following Instructions in Language with Modular Methods\", ICLR, Apr 2022. [Paper",
-          "description": "] [Code] [Website]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official repository of ICLR 2022 paper FILM: Following Instructions in Language with Modular Methods",
-            "homepage": null,
-            "id": 461897783,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2023-04-09T17:22:21Z",
-            "open_issues": 24,
-            "owner": "soyeonm",
-            "repo": "FILM",
-            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7270,
+            "stars": 7273,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1166,7 +1166,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 859,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1697,7 +1697,7 @@
             "open_issues": 16,
             "owner": "vlmaps",
             "repo": "vlmaps",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1879,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T08:56:07Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-19T20:45:55Z",
+            "open_issues": 160,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30077,
+            "stars": 30091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1904,7 +1904,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3843,
+            "stars": 3845,
             "topics": [
               "ai",
               "computer-vision",
@@ -1929,10 +1929,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 149,
+            "open_issues": 152,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3427,
+            "stars": 3432,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1960,7 +1960,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2275,
+            "stars": 2276,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1977,11 +1977,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:38:40Z",
+            "last_commit": "2026-10-19T20:20:00Z",
             "open_issues": 312,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1761,
+            "stars": 1767,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2032,7 +2032,7 @@
             "open_issues": 14,
             "owner": "mila-iqia",
             "repo": "babyai",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "imitation-learning",
               "nlp",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:34:39.567Z",
+    "last_updated": "2026-10-19T20:59:16.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2220,10 +2220,10 @@
       "language": null,
       "license": "BSD-3-Clause",
       "last_commit": "2026-10-10T17:40:43Z",
-      "open_issues": 15,
+      "open_issues": 17,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4492,
+      "stars": 4491,
       "topics": []
     },
     "original_repository_sha": "5671229def92a3e1756eeeb81bd58f062b804f7d",
