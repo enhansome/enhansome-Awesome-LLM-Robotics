@@ -1,6 +1,6 @@
 # Awesome-LLM-Robotics with stars
 
-This repo contains a curative list of **papers using Large Language/Multi-Modal Models for Robotics/RL**. Template from [awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) ⭐ 1,570 | 🐛 2 | 📅 2025-07-12 <br>
+This repo contains a curative list of **papers using Large Language/Multi-Modal Models for Robotics/RL**. Template from [awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) ⭐ 1,571 | 🐛 2 | 📅 2025-07-12 <br>
 
 #### Please feel free to send me [pull requests](https://github.com/GT-RIPL/Awesome-LLM-Robotics/blob/main/how-to-PR.md) or [email](mailto:zkira-changetoat-gatech--changetodot-changetoedu) to add papers! Please make sure to put in reverse chronological order and follow the format carefully! <br>
 
@@ -42,8 +42,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Reasoning
 
-* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sept 2022*. \[[Paper](https://arxiv.org/abs/2209.07753)]  \[[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies) ⭐ 39,006 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-22] \[[Website](https://code-as-policies.github.io/)]
-* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. \[[Paper](https://arxiv.org/abs/2304.03442v1) [Code](https://github.com/joonspk-research/generative_agents) ⭐ 22,269 | 🐛 146 | 📅 2024-08-05]
+* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sept 2022*. \[[Paper](https://arxiv.org/abs/2209.07753)]  \[[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies) ⭐ 39,014 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-23] \[[Website](https://code-as-policies.github.io/)]
+* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. \[[Paper](https://arxiv.org/abs/2304.03442v1) [Code](https://github.com/joonspk-research/generative_agents) ⭐ 22,281 | 🐛 146 | 📅 2024-08-05]
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", *arXiv, Dec 2022*. \[[Paper](https://arxiv.org/abs/2212.06817)]  \[[GitHub](https://github.com/google-research/robotics_transformer) ⚠️ Archived] \[[Website](https://robotics-transformer.github.io/)]
 * **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. \[[Paper](https://arxiv.org/abs/2311.01455)] \[[Code](https://github.com/Genesis-Embodied-AI/RoboGen) ⭐ 1,230 | 🐛 6 | 🌐 Python | 📅 2024-05-31] \[[Website](https://robogen-ai.github.io/)]
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. \[[Paper](https://arxiv.org/abs/2409.01652)] \[[Code](https://github.com/huangwl18/ReKep) ⭐ 991 | 🐛 37 | 🌐 Python | 📅 2025-02-20] \[[Website](https://rekep-robot.github.io)]
@@ -83,7 +83,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Planning
 
-* **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, Apr 2023*. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,241 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Website](https://react-lm.github.io/)]
+* **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, Apr 2023*. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Github](https://github.com/ysymyth/ReAct) ⭐ 4,246 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[Website](https://react-lm.github.io/)]
 * **LLM+P**:"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency", *arXiv, Apr 2023*, \[[Paper](https://arxiv.org/abs/2304.11477)] \[[Code](https://github.com/Cranial-XIX/llm-pddl) ⭐ 464 | 🐛 5 | 🌐 SAS | 📅 2023-09-27]
 * **ChatGPT-Prompts**: "ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application", *arXiv, Apr 2023*, \[[Paper](https://arxiv.org/abs/2304.03893?s=03)] \[[Code/Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts) ⭐ 384 | 🐛 1 | 📅 2023-11-28]
 * **Co-LLM-Agents**: "Building Cooperative Embodied Agents Modularly with Large Language Models", *arXiv, Jul 2023*. \[[Paper](https://arxiv.org/abs/2307.02485)] \[[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents) ⭐ 316 | 🐛 6 | 🌐 Python | 📅 2025-03-30] \[[Website](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
@@ -138,8 +138,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Manipulation
 
-* **VOYAGER**:"VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Pytorch Code](https://github.com/MineDojo/Voyager) ⭐ 7,280 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03] \[[Website](https://voyager.minedojo.org/)]
-* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", *arXiv, Oct 2022*, \[[Paper](https://arxiv.org/abs/2210.03094)] \[[Pytorch Code](https://github.com/vimalabs/VIMA) ⭐ 857 | 🐛 14 | 🌐 Python | 📅 2024-04-18] \[[Website](https://vimalabs.github.io/)]
+* **VOYAGER**:"VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Pytorch Code](https://github.com/MineDojo/Voyager) ⭐ 7,283 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03] \[[Website](https://voyager.minedojo.org/)]
+* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", *arXiv, Oct 2022*, \[[Paper](https://arxiv.org/abs/2210.03094)] \[[Pytorch Code](https://github.com/vimalabs/VIMA) ⭐ 858 | 🐛 14 | 🌐 Python | 📅 2024-04-18] \[[Website](https://vimalabs.github.io/)]
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", *CoRL, Sept 2021*. \[[Paper](https://arxiv.org/abs/2109.12098)] \[[Pytorch Code](https://github.com/cliport/cliport) ⭐ 547 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-11-02] \[[Website](https://cliport.github.io/)]
 * **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", *CoRL, Sep 2022*. \[[Paper](https://arxiv.org/abs/2209.05451)] \[[Pytorch Code](https://github.com/peract/peract) ⭐ 497 | 🐛 18 | 🌐 Python | 📅 2024-05-09] \[[Website](https://peract.github.io/)]
 * **Scalingup**: "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition", *arXiv, July 2023*. \[[Paper](https://arxiv.org/abs/2307.14535)] \[[Code](https://github.com/columbia-ai-robotics/scalingup) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2024-08-12] \[[Website](https://www.cs.columbia.edu/~huy/scalingup/)]
@@ -156,11 +156,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **A3VLM**: "A3VLM: Actionable Articulation-Aware Vision Language Model", *CoRL, Nov 2024*. \[[Paper](https://arxiv.org/abs/2406.07549)] \[[PyTorch Code](https://github.com/changhaonan/A3VLM) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2024-10-07]
 * **ManipVQA**:"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models", *IROS, Mar 2024*, \[[Paper](https://arxiv.org/abs/2403.11289)] \[[PyTorch Code](https://github.com/SiyuanHuang95/ManipVQA) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2024-08-22]
 * **D2E**: "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI", *arXiv, Oct 2025*. \[[Paper](https://arxiv.org/abs/2510.05684)] \[[Code](https://github.com/worv-ai/D2E) ⭐ 94 | 🐛 3 | 🌐 Python | 📅 2026-07-16] \[[Website](https://worv-ai.github.io/d2e/)]
-* **LaTTe**: "LaTTe: Language Trajectory TransformEr", *arXiv, Aug 2022*. \[[Paper](https://arxiv.org/abs/2208.02918)] \[[TensorFlow Code](https://github.com/arthurfenderbucker/NL_trajectory_reshaper) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-12-14] \[[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/robot-language/)]
+* **LaTTe**: "LaTTe: Language Trajectory TransformEr", *arXiv, Aug 2022*. \[[Paper](https://arxiv.org/abs/2208.02918)] \[[TensorFlow Code](https://github.com/arthurfenderbucker/NL_trajectory_reshaper) ⭐ 61 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-12-14] \[[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/robot-language/)]
 * **CoTPC**:"Chain-of-Thought Predictive Control", *arXiv, Apr 2023*, \[[Paper](https://arxiv.org/abs/2304.00776)] \[[Code](https://github.com/SeanJia/CoTPC) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2023-05-01]
 * **LILAC**:"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy", *arXiv, Jan 2023*, \[[Paper](https://arxiv.org/abs/2301.02555)] \[[Pytorch Code](https://github.com/Stanford-ILIAD/lilac) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-12-13]
 * **LLM-TALE**: "LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning", *arXiv, Sep 2025*. \[[Paper](https://arxiv.org/pdf/2509.16615)] \[[Code](https://github.com/llm-tale/llm_tale) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-17] \[[Website](https://github.com/llm-tale/llm_tale) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-17]
-* **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. \[[Paper](https://arxiv.org/abs/2609.35690)] \[[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-04] \[[Website](https://agentics-robotics.github.io/APPL/)]
+* **APPL**: "Agent Priors-guided Policy Learning", *arXiv, Sep 2026*. \[[Paper](https://arxiv.org/abs/2609.35690)] \[[Code](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-04] \[[Website](https://agentics-robotics.github.io/APPL/)]
 * **Prompt2Act**: "Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models", *arxiv, Sep 2025*. \[[Paper](https://arxiv.org/abs/2505.19789)] \[[Code](https://github.com/Zero-coder/Prompt2Act) ⭐ 3 | 🐛 1 | 📅 2025-09-29]
 * **Meta-Control**: "Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills", *CoRL, Nov 2024*. \[[Paper](https://arxiv.org/abs/2405.11380)] \[[Website](https://meta-control-paper.github.io/)]
 * **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *CoRL, Nov 2024*. \[[Paper](https://arxiv.org/abs/2406.18915)] \[[Website](https://robot-ma.github.io/)]
@@ -217,11 +217,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Simulation Frameworks
 
-* **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. \[[Code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,103 | 🐛 155 | 🌐 Python | 📅 2026-10-22]
-* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", *NeurIPS, Dec 2021*. \[[Paper](https://arxiv.org/abs/2106.14405)] \[[Code](https://github.com/facebookresearch/habitat-sim) ⭐ 3,849 | 🐛 270 | 🌐 C++ | 📅 2026-07-21] \[[Website](https://aihabitat.org/)]
-* **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. \[[Paper](https://arxiv.org/abs/2410.00425)] \[[Code](https://github.com/haosulab/ManiSkill) ⭐ 3,458 | 🐛 166 | 🌐 Python | 📅 2026-08-04] \[[Website](http://maniskill.ai/)]
+* **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. \[[Code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,109 | 🐛 158 | 🌐 Python | 📅 2026-10-23]
+* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", *NeurIPS, Dec 2021*. \[[Paper](https://arxiv.org/abs/2106.14405)] \[[Code](https://github.com/facebookresearch/habitat-sim) ⭐ 3,850 | 🐛 270 | 🌐 C++ | 📅 2026-07-21] \[[Website](https://aihabitat.org/)]
+* **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arxiv, Oct 2024*. \[[Paper](https://arxiv.org/abs/2410.00425)] \[[Code](https://github.com/haosulab/ManiSkill) ⭐ 3,461 | 🐛 167 | 🌐 Python | 📅 2026-08-04] \[[Website](http://maniskill.ai/)]
 * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", *arXiv, Jun 2022*. \[[Paper](https://arxiv.org/abs/2206.08853)] \[[Code](https://github.com/MineDojo/MineDojo) ⭐ 2,277 | 🐛 82 | 🌐 Java | 📅 2024-03-18] \[[Website](https://minedojo.org/)] \[[Open Database](https://minedojo.org/knowledge_base.html)]
-* **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine".*6th Annual Conference on Robot Learning, 2022*. \[[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] \[[Code](https://github.com/StanfordVL/OmniGibson) ⭐ 1,775 | 🐛 312 | 🌐 Python | 📅 2026-10-22]
+* **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine".*6th Annual Conference on Robot Learning, 2022*. \[[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] \[[Code](https://github.com/StanfordVL/OmniGibson) ⭐ 1,776 | 🐛 312 | 🌐 Python | 📅 2026-10-23]
 * **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", *IROS, Sep 2021*. \[[Paper](https://arxiv.org/abs/2012.02924)] \[[Code](https://github.com/StanfordVL/iGibson) ⭐ 820 | 🐛 139 | 🌐 Python | 📅 2024-06-26] \[[Website](https://svl.stanford.edu/igibson/)]
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", *ICLR, May 2019*. \[\[<https://arxiv.org/abs/1810.08272>)] \[[Code](https://github.com/mila-iqia/babyai/tree/iclr19) ⭐ 771 | 🐛 14 | 🌐 Python | 📅 2023-10-01]
 * **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", *CVPR, Jun 2020*. \[[Paper](https://arxiv.org/abs/1912.01734)] \[[Code](https://github.com/askforalfred/alfred) ⭐ 531 | 🐛 23 | 🌐 C | 📅 2026-02-05] \[[Website](https://askforalfred.com/)]
@@ -247,7 +247,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Libraries and Tools
 
-* **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. \[[Code](https://github.com/verl-project/verl-omni) ⭐ 1,338 | 🐛 170 | 🌐 Python | 📅 2026-10-22] \[[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+* **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. \[[Code](https://github.com/verl-project/verl-omni) ⭐ 1,349 | 🐛 169 | 🌐 Python | 📅 2026-10-23] \[[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
 
 ***
 
@@ -267,4 +267,4 @@ If you find this repository useful, please consider citing this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

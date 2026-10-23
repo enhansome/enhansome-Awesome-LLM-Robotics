@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:29:10Z",
+            "last_commit": "2026-10-23T00:52:55Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39006,
+            "stars": 39014,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22269,
+            "stars": 22281,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4241,
+            "stars": 4246,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7280,
+            "stars": 7283,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1166,7 +1166,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 857,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1552,7 +1552,7 @@
             "open_issues": 1,
             "owner": "arthurfenderbucker",
             "repo": "NL_trajectory_reshaper",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1636,7 +1636,7 @@
             "open_issues": 0,
             "owner": "Agentics-robotics",
             "repo": "Agent-Priors-guided-Policy-Learning",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "agentic-ai",
               "diffusion-policy",
@@ -1879,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T19:19:52Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-23T16:35:18Z",
+            "open_issues": 158,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30103,
+            "stars": 30109,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1904,7 +1904,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3849,
+            "stars": 3850,
             "topics": [
               "ai",
               "computer-vision",
@@ -1929,10 +1929,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3458,
+            "stars": 3461,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1977,11 +1977,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T18:59:46Z",
+            "last_commit": "2026-10-23T00:25:10Z",
             "open_issues": 312,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:58:15.069Z",
+    "last_updated": "2026-10-23T19:55:12.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2223,7 +2223,7 @@
       "open_issues": 17,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4490,
+      "stars": 4491,
       "topics": []
     },
     "original_repository_sha": "5671229def92a3e1756eeeb81bd58f062b804f7d",
