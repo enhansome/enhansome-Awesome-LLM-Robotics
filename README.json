@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:52:55Z",
-            "open_issues": 2009,
+            "last_commit": "2026-10-23T21:57:07Z",
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39014,
+            "stars": 39016,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22281,
+            "stars": 22282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 85,
+            "stars": 88,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4246,
+            "stars": 4247,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7283,
+            "stars": 7284,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1166,7 +1166,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 858,
+            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1879,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T16:35:18Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-24T13:33:12Z",
+            "open_issues": 162,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30109,
+            "stars": 30115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1904,7 +1904,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3850,
+            "stars": 3849,
             "topics": [
               "ai",
               "computer-vision",
@@ -1932,7 +1932,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3461,
+            "stars": 3462,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1977,11 +1977,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T00:25:10Z",
-            "open_issues": 312,
+            "last_commit": "2026-10-24T06:18:00Z",
+            "open_issues": 314,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2029,7 +2029,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2023-10-01T01:53:59Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "mila-iqia",
             "repo": "babyai",
             "stars": 771,
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:55:12.171Z",
+    "last_updated": "2026-10-24T18:44:08.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
