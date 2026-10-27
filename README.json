@@ -69,7 +69,7 @@
             "open_issues": 0,
             "owner": "ZJUSCL",
             "repo": "Awesome-Robot-Verifier",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T20:10:08Z",
+            "last_commit": "2026-10-27T19:38:57Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39037,
+            "stars": 39042,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22292,
+            "stars": 22296,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -371,7 +371,7 @@
             "id": 1368647527,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T05:39:01Z",
+            "last_commit": "2026-10-26T21:08:19Z",
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
@@ -402,7 +402,7 @@
             "open_issues": 1,
             "owner": "clear-nus",
             "repo": "octopi",
-            "stars": 79,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4246,
+            "stars": 4249,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -677,7 +677,7 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-10-20T11:22:27Z",
+            "last_commit": "2026-10-26T21:08:17Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
@@ -1140,7 +1140,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7292,
+            "stars": 7295,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1636,7 +1636,7 @@
             "open_issues": 0,
             "owner": "Agentics-robotics",
             "repo": "Agent-Priors-guided-Policy-Learning",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "agentic-ai",
               "diffusion-policy",
@@ -1879,11 +1879,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T10:35:41Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-27T12:03:42Z",
+            "open_issues": 163,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30121,
+            "stars": 30129,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1932,7 +1932,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3464,
+            "stars": 3470,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1981,7 +1981,7 @@
             "open_issues": 314,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1780,
+            "stars": 1782,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:58:50.039Z",
+    "last_updated": "2026-10-27T20:36:10.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
