@@ -82,7 +82,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code-As-Policies: \"Code as Policies: Language Model Programs for Embodied Control\", arXiv, Sept 2022. [Paper",
+          "title": "Code-As-Policies: \"Code as Policies: Language Model Programs for Embodied Control\", arXiv, Sep 2022. [Paper",
           "description": "] [Colab] [Website]",
           "children": [],
           "repo_info": {
@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:44:13Z",
+            "last_commit": "2026-10-29T16:49:00Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39047,
+            "stars": 39058,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22304,
+            "stars": 22309,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -265,7 +265,7 @@
         },
         {
           "node_type": "item",
-          "title": "RoboRefer: \"RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics\", arXiv, June 2025. [Paper",
+          "title": "RoboRefer: \"RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics\", arXiv, Jun 2025. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -291,7 +291,7 @@
         },
         {
           "node_type": "item",
-          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, June 2025. [Paper",
+          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, Jun 2025. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -388,7 +388,7 @@
         },
         {
           "node_type": "item",
-          "title": "Octopi: \"Octopi: Object Property Reasoning with Large Tactile-Language Models\", Robotics: Science and Systems (RSS), June 24. [Paper",
+          "title": "Octopi: \"Octopi: Object Property Reasoning with Large Tactile-Language Models\", Robotics: Science and Systems (RSS), Jun 2024. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4250,
+            "stars": 4253,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -524,7 +524,7 @@
         },
         {
           "node_type": "item",
-          "title": "LLM+P:\"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency\", arXiv, Apr 2023, [Paper",
+          "title": "LLM+P: \"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency\", arXiv, Apr 2023, [Paper",
           "description": "Cranial-XIX/llm-pddl",
           "children": [],
           "repo_info": {
@@ -646,7 +646,7 @@
         },
         {
           "node_type": "item",
-          "title": "LM-Nav: \"Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action\", arXiv, July 2022. [Paper",
+          "title": "LM-Nav: \"Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action\", arXiv, Jul 2022. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -667,7 +667,7 @@
         },
         {
           "node_type": "item",
-          "title": "EMem: \"EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks\", arXiv, 2026. [Paper",
+          "title": "EMem: \"EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks\", arXiv, Sep 2026. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -894,8 +894,8 @@
         },
         {
           "node_type": "item",
-          "title": "Attentive Support: \"To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions\", arXiv, March 2024. [Paper",
-          "description": "] [Website][Code]",
+          "title": "Attentive Support: \"To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions\", arXiv, Mar 2024. [Paper",
+          "description": "] [Website] [Code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
         },
         {
           "node_type": "item",
-          "title": "LLM+MAP: \"LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language\", arxiv, Mar 2025. [Paper",
+          "title": "LLM+MAP: \"LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language\", arXiv, Mar 2025. [Paper",
           "description": "Kchu/LLM-MAP",
           "children": [],
           "repo_info": {
@@ -1012,6 +1012,69 @@
             ]
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EMPIRIC: \"EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ExoPredicator: \"ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning\", ICLR, Apr 2026. [Paper",
+          "description": "] [Code] [Blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VisualPredicator: \"VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning\", ICLR, Apr 2025. [Paper",
+          "description": "BasisResearch/predicators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
         },
         {
           "node_type": "item",
@@ -1078,8 +1141,38 @@
         },
         {
           "node_type": "item",
+          "title": "RoboQuest: \"RoboQuest: Generalist Physical Agents that Search, Inspect and Test\", arXiv, Oct 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RoboQuest is a benchmark for goal-directed embodied exploration, in which a mobile manipulator must gather task-relevant information through physical interaction, act on the evidence, and decide for itself when the task is done.",
+            "homepage": null,
+            "id": 1406103695,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-08T17:38:55Z",
+            "open_issues": 0,
+            "owner": "declare-lab",
+            "repo": "RoboQuest",
+            "stars": 9,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agents",
+              "embodied-agent",
+              "embodied-ai",
+              "embodied-intelligence",
+              "physical-ai",
+              "robotics"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
           "title": "CoPAL: \"Corrective Planning of Robot Actions with Large Language Models\", ICRA, Oct 2023. [Paper",
-          "description": "] [Website][Code]",
+          "description": "] [Website] [Code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1099,7 +1192,7 @@
         },
         {
           "node_type": "item",
-          "title": "PRED: \"Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents\", CoRL, Sept 2024. [Paper",
+          "title": "PRED: \"Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents\", CoRL, Sep 2024. [Paper",
           "description": "snumprlab/pred",
           "children": [],
           "repo_info": {
@@ -1117,6 +1210,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VLM-MPC: \"VLM-MPC: Model predictive controller augmented vision language model for autonomous driving\", Transportation Research Part C: Emerging Technologies, Feb 2026. [Paper",
+          "description": "] [arXiv] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 987294704,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-14T04:34:28Z",
+            "open_issues": 0,
+            "owner": "Keke-Long",
+            "repo": "VLM-MPC",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
         }
       ],
       "title": "Planning"
@@ -1126,7 +1240,28 @@
       "items": [
         {
           "node_type": "item",
-          "title": "VOYAGER:\"VOYAGER: An Open-Ended Embodied Agent with Large Language Models\", arXiv, May 2023. [Paper",
+          "title": "SmolVLA: \"SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics\", arXiv, Jun 2025. [Paper",
+          "description": "huggingface/lerobot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "homepage": "https://huggingface.co/docs/lerobot",
+            "id": 748713144,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T17:25:28Z",
+            "open_issues": 878,
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 28576,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VOYAGER: \"VOYAGER: An Open-Ended Embodied Agent with Large Language Models\", arXiv, May 2023. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1140,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7298,
+            "stars": 7304,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1152,7 +1287,28 @@
         },
         {
           "node_type": "item",
-          "title": "VIMA:\"VIMA: General Robot Manipulation with Multimodal Prompts\", arXiv, Oct 2022, [Paper",
+          "title": "Wall-OSS: \"Igniting VLMs toward the Embodied Space\", arXiv, Sep 2025. [Paper",
+          "description": "X-Square-Robot/wall-x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Building General-Purpose Robots Based on Embodied Foundation Model",
+            "homepage": "https://x2robot.com/en/research",
+            "id": 1050222011,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-18T06:48:24Z",
+            "open_issues": 52,
+            "owner": "X-Square-Robot",
+            "repo": "wall-x",
+            "stars": 1305,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VIMA: \"VIMA: General Robot Manipulation with Multimodal Prompts\", arXiv, Oct 2022, [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1173,7 +1329,7 @@
         },
         {
           "node_type": "item",
-          "title": "CLIPort: \"CLIPort: What and Where Pathways for Robotic Manipulation\", CoRL, Sept 2021. [Paper",
+          "title": "CLIPort: \"CLIPort: What and Where Pathways for Robotic Manipulation\", CoRL, Sep 2021. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1206,7 +1362,7 @@
         },
         {
           "node_type": "item",
-          "title": "Perceiver-Actor:\"A Multi-Task Transformer for Robotic Manipulation\", CoRL, Sep 2022. [Paper",
+          "title": "Perceiver-Actor: \"A Multi-Task Transformer for Robotic Manipulation\", CoRL, Sep 2022. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1227,7 +1383,7 @@
         },
         {
           "node_type": "item",
-          "title": "Scalingup: \"Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition\", arXiv, July 2023. [Paper",
+          "title": "Scalingup: \"Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition\", arXiv, Jul 2023. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1252,7 +1408,28 @@
         },
         {
           "node_type": "item",
-          "title": "R3M:\"R3M: A Universal Visual Representation for Robot Manipulation\", arXiv, Nov 2022, [Paper",
+          "title": "MolmoAct: \"MolmoAct: Action Reasoning Models that can Reason in Space\", arXiv, Aug 2025. [Paper",
+          "description": "allenai/molmoact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Repository for MolmoAct",
+            "homepage": "https://allenai.org/blog/molmoact",
+            "id": 1030555895,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-11T18:26:49Z",
+            "open_issues": 3,
+            "owner": "allenai",
+            "repo": "molmoact",
+            "stars": 393,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "R3M: \"R3M: A Universal Visual Representation for Robot Manipulation\", arXiv, Nov 2022, [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1266,14 +1443,14 @@
             "open_issues": 9,
             "owner": "facebookresearch",
             "repo": "r3m",
-            "stars": 375,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
-          "title": "Octopus:\"Octopus: Embodied Vision-Language Programmer from Environmental Feedback\", arXiv, Oct 2023, [Paper",
+          "title": "Octopus: \"Octopus: Embodied Vision-Language Programmer from Environmental Feedback\", arXiv, Oct 2023, [Paper",
           "description": "] [PyTorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1294,7 +1471,7 @@
         },
         {
           "node_type": "item",
-          "title": "RL4VLA: \"RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study\", NeurIPS, Sep 2025.. [Paper",
+          "title": "RL4VLA: \"RL4VLA:What Can RL Bring to VLA Generalization? An Empirical Study\", NeurIPS, Sep 2025. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1308,14 +1485,14 @@
             "open_issues": 6,
             "owner": "gen-robot",
             "repo": "RL4VLA",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
-          "title": "DEPS:\"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\", arXiv, Feb 2023. [Paper",
+          "title": "DEPS: \"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents\", arXiv, Feb 2023. [Paper",
           "description": "] [Pytorch Code]",
           "children": [],
           "repo_info": {
@@ -1339,7 +1516,7 @@
         },
         {
           "node_type": "item",
-          "title": "Plan4MC:\"Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks\", arXiv, Mar 2023. [Paper",
+          "title": "Plan4MC: \"Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks\", arXiv, Mar 2023. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1360,7 +1537,7 @@
         },
         {
           "node_type": "item",
-          "title": "CLIP-Fields:\"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory\", arXiv, Oct 2022, [Paper",
+          "title": "CLIP-Fields: \"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory\", arXiv, Oct 2022, [Paper",
           "description": "] [PyTorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1387,7 +1564,40 @@
         },
         {
           "node_type": "item",
-          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, June 2025. [Paper",
+          "title": "Spotter: \"Spotter: Let the Embodied Model Lead, and the VLM Reflect for It\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+            "homepage": "https://zqc3117.github.io/Spotter/",
+            "id": 1394348802,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-29T14:41:37Z",
+            "open_issues": 0,
+            "owner": "zqc3117",
+            "repo": "Spotter",
+            "stars": 165,
+            "topics": [
+              "embodied-ai",
+              "llm-agent",
+              "qwen",
+              "robocasa",
+              "robodojo",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "robotwin",
+              "runtime-monitoring-system",
+              "vlm-agent"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, Jun 2025. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1408,7 +1618,7 @@
         },
         {
           "node_type": "item",
-          "title": "LIV:\"LIV: Language-Image Representations and Rewards for Robotic Control\", arXiv, Jun 2023, [Paper",
+          "title": "LIV: \"LIV: Language-Image Representations and Rewards for Robotic Control\", arXiv, Jun 2023, [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1429,7 +1639,7 @@
         },
         {
           "node_type": "item",
-          "title": "Plan-Seq-Learn:\"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks\", ICLR, May 2024. [Paper",
+          "title": "Plan-Seq-Learn: \"Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks\", ICLR, May 2024. [Paper",
           "description": "], [PyTorch Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1492,7 +1702,7 @@
         },
         {
           "node_type": "item",
-          "title": "ManipVQA:\"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models\", IROS, Mar 2024, [Paper",
+          "title": "ManipVQA: \"ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models\", IROS, Mar 2024, [Paper",
           "description": "] [PyTorch Code]",
           "children": [],
           "repo_info": {
@@ -1559,7 +1769,7 @@
         },
         {
           "node_type": "item",
-          "title": "CoTPC:\"Chain-of-Thought Predictive Control\", arXiv, Apr 2023, [Paper",
+          "title": "CoTPC: \"Chain-of-Thought Predictive Control\", arXiv, Apr 2023, [Paper",
           "description": "SeanJia/CoTPC",
           "children": [],
           "repo_info": {
@@ -1580,7 +1790,7 @@
         },
         {
           "node_type": "item",
-          "title": "LILAC:\"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy\", arXiv, Jan 2023, [Paper",
+          "title": "LILAC: \"No, to the Right – Online Language Corrections for Robotic Manipulation via Shared Autonomy\", arXiv, Jan 2023, [Paper",
           "description": "] [Pytorch Code]",
           "children": [],
           "repo_info": {
@@ -1598,6 +1808,34 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RobotUse: \"RobotUse: Allocating Computation, Context, and Decisions\", arXiv, Oct 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A robot agent harness for visual action selection, subagent context management, and learning from execution through persistent playbooks.",
+            "homepage": "https://robotuse-team.github.io/",
+            "id": 1399994927,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-14T05:30:09Z",
+            "open_issues": 0,
+            "owner": "robotuse-team",
+            "repo": "RobotUse",
+            "stars": 8,
+            "topics": [
+              "agent-harness",
+              "embodied-ai",
+              "multi-agent",
+              "robot-manipulation",
+              "robotics",
+              "vision-language-models"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
         },
         {
           "node_type": "item",
@@ -1656,7 +1894,28 @@
         },
         {
           "node_type": "item",
-          "title": "Prompt2Act: \"Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models\", arxiv, Sep 2025. [Paper",
+          "title": "MAPS: \"MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization\", arXiv, Nov 2025; CVPR 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better VLA Generalization (CVPR 2026)",
+            "homepage": null,
+            "id": 1261629016,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-06-07T00:29:11Z",
+            "open_issues": 1,
+            "owner": "chengyuehuang511",
+            "repo": "MAPS-VLA",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt2Act: \"Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models\", arXiv, Sep 2025. [Paper",
           "description": "Zero-coder/Prompt2Act",
           "children": [],
           "repo_info": {
@@ -1674,6 +1933,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ACRO: \"ACRO: Actor–Critic Rollout Orchestration\", Preprint, Oct 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Actor–Critic Rollout Orchestration for fixed vision-language-action policies",
+            "homepage": "https://junhoo.me/acro",
+            "id": 1403365872,
+            "language": "TeX",
+            "license": null,
+            "last_commit": "2026-10-03T17:42:27Z",
+            "open_issues": 0,
+            "owner": "JunHoo-Lee",
+            "repo": "ACRO",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
         }
       ],
       "title": "Manipulation"
@@ -1733,7 +2013,7 @@
         },
         {
           "node_type": "item",
-          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, June 2025. [Paper",
+          "title": "RoboSpatial: \"RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics\", CVPR, Jun 2025. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1755,7 +2035,7 @@
         {
           "node_type": "item",
           "title": "LLMxRobot: \"Autonomous Driving Systems with On-Board LLMs\", RSS, Apr 2025 [Paper",
-          "description": "][Code][Website]",
+          "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1879,11 +2159,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T20:03:39Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-29T15:00:04Z",
+            "open_issues": 160,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30134,
+            "stars": 30143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1918,7 +2198,7 @@
         },
         {
           "node_type": "item",
-          "title": "ManiSkill3: \"ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.\", arxiv, Oct 2024. [Paper",
+          "title": "ManiSkill3: \"ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.\", arXiv, Oct 2024. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
           "repo_info": {
@@ -1932,7 +2212,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3472,
+            "stars": 3478,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1967,7 +2247,7 @@
         },
         {
           "node_type": "item",
-          "title": "OmniGibson: \"OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine\".6th Annual Conference on Robot Learning, 2022. [Paper",
+          "title": "OmniGibson: \"OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine\", 6th Annual Conference on Robot Learning, 2022. [Paper",
           "description": "StanfordVL/BEHAVIOR-1K",
           "children": [],
           "repo_info": {
@@ -1977,11 +2257,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:53:24Z",
+            "last_commit": "2026-10-29T03:58:53Z",
             "open_issues": 313,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1784,
+            "stars": 1785,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2018,7 +2298,7 @@
         },
         {
           "node_type": "item",
-          "title": "BabyAI: \"BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning\", ICLR, May 2019. [[https://arxiv.org/abs/1810.08272",
+          "title": "BabyAI: \"BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning\", ICLR, May 2019. [Paper",
           "description": "mila-iqia/babyai",
           "children": [],
           "repo_info": {
@@ -2080,7 +2360,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -2115,6 +2395,36 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RoboQuest: \"RoboQuest: Generalist Physical Agents that Search, Inspect and Test\", arXiv, Oct 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RoboQuest is a benchmark for goal-directed embodied exploration, in which a mobile manipulator must gather task-relevant information through physical interaction, act on the evidence, and decide for itself when the task is done.",
+            "homepage": null,
+            "id": 1406103695,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-08T17:38:55Z",
+            "open_issues": 0,
+            "owner": "declare-lab",
+            "repo": "RoboQuest",
+            "stars": 9,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agents",
+              "embodied-agent",
+              "embodied-ai",
+              "embodied-intelligence",
+              "physical-ai",
+              "robotics"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
         },
         {
           "node_type": "item",
@@ -2208,10 +2518,89 @@
         }
       ],
       "title": "Safety, Risks, Red Teaming, and Adversarial Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VeRL-Omni: Easy, fast, and stable RL training for diffusion and omni-modality models. [Code",
+          "description": "verl-project/verl-omni",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multimodal RL training framework for diffusion & omni models",
+            "homepage": "https://verl-omni.readthedocs.io/en/latest/index.html",
+            "id": 1216947831,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T06:57:49Z",
+            "open_issues": 176,
+            "owner": "verl-project",
+            "repo": "verl-omni",
+            "stars": 1405,
+            "topics": [
+              "diffusion-models",
+              "flow-matching",
+              "grpo",
+              "minimax-h3",
+              "multimodal",
+              "qwen",
+              "reinforcement-learning",
+              "rlhf",
+              "vllm"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Provael: Adversarial evaluation for vision-language-action policies: attack families, a benign control arm, and a signed leaderboard. Simulation only. [Code",
+          "description": "] [Docs] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Provael — red-team open Vision-Language-Action (VLA) robot policies in simulation and report an Attack Success Rate (ASR). Prove it. Prevail.",
+            "homepage": "https://www.provael.com",
+            "id": 1257863851,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T11:35:32Z",
+            "open_issues": 1,
+            "owner": "provael",
+            "repo": "provael",
+            "stars": 7,
+            "topics": [
+              "adversarial-attacks",
+              "ai-red-teaming",
+              "ai-safety",
+              "ai-security",
+              "embodied-ai",
+              "eu-ai-act",
+              "github-action",
+              "lerobot",
+              "libero",
+              "llm",
+              "llm-security",
+              "machinery-regulation",
+              "red-team",
+              "robot-learning",
+              "robotics",
+              "sarif",
+              "security",
+              "smolvla",
+              "vision-language-action",
+              "vla"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        }
+      ],
+      "title": "Libraries and Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:57:33.816Z",
+    "last_updated": "2026-10-29T21:00:08.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2219,14 +2608,14 @@
       "id": 524119789,
       "language": null,
       "license": "BSD-3-Clause",
-      "last_commit": "2026-10-10T17:40:43Z",
-      "open_issues": 19,
+      "last_commit": "2026-10-29T04:41:10Z",
+      "open_issues": 7,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4492,
+      "stars": 4495,
       "topics": []
     },
-    "original_repository_sha": "5671229def92a3e1756eeeb81bd58f062b804f7d",
+    "original_repository_sha": "cf3ae761787adbb3fd0245c175bce5df88dc0c34",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Robotics",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-Robotics with stars"
