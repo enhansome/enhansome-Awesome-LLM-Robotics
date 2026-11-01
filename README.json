@@ -96,7 +96,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39073,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 146,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22318,
+            "stars": 22322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -184,7 +184,7 @@
             "open_issues": 37,
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4256,
+            "stars": 4258,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -961,6 +961,69 @@
         },
         {
           "node_type": "item",
+          "title": "EMPIRIC: \"EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ExoPredicator: \"ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning\", ICLR, Apr 2026. [Paper",
+          "description": "] [Code] [Blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VisualPredicator: \"VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning\", ICLR, Apr 2025. [Paper",
+          "description": "BasisResearch/predicators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning for effective and efficient bilevel planning",
+            "homepage": null,
+            "id": 924105199,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T19:29:27Z",
+            "open_issues": 78,
+            "owner": "BasisResearch",
+            "repo": "predicators",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
           "title": "LABOR Agent: \"Large Language Models for Orchestrating Bimanual Robots\", Humanoids, Nov. 2024. [Paper",
           "description": "] [Website], [Code]",
           "children": [],
@@ -984,69 +1047,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EMPIRIC: \"EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning\", arXiv, Sep 2026. [Paper",
-          "description": "] [Code] [Website]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Learning for effective and efficient bilevel planning",
-            "homepage": null,
-            "id": 924105199,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
-            "owner": "BasisResearch",
-            "repo": "predicators",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-10-29T21:00:08.907Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ExoPredicator: \"ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning\", ICLR, Apr 2026. [Paper",
-          "description": "] [Code] [Blog]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Learning for effective and efficient bilevel planning",
-            "homepage": null,
-            "id": 924105199,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
-            "owner": "BasisResearch",
-            "repo": "predicators",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-10-29T21:00:08.907Z"
-        },
-        {
-          "node_type": "item",
-          "title": "VisualPredicator: \"VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning\", ICLR, Apr 2025. [Paper",
-          "description": "BasisResearch/predicators",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Learning for effective and efficient bilevel planning",
-            "homepage": null,
-            "id": 924105199,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
-            "owner": "BasisResearch",
-            "repo": "predicators",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-10-29T21:00:08.907Z"
         },
         {
           "node_type": "item",
@@ -1155,7 +1155,7 @@
             "open_issues": 0,
             "owner": "declare-lab",
             "repo": "RoboQuest",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -1250,11 +1250,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T18:23:20Z",
-            "open_issues": 870,
+            "last_commit": "2026-11-01T19:37:17Z",
+            "open_issues": 879,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28612,
+            "stars": 28628,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7303,
+            "stars": 7306,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1301,7 +1301,7 @@
             "open_issues": 53,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1306,
+            "stars": 1308,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1397,7 +1397,7 @@
             "open_issues": 8,
             "owner": "real-stanford",
             "repo": "scalingup",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "language-model",
               "robotics",
@@ -1578,7 +1578,7 @@
             "open_issues": 0,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 170,
+            "stars": 175,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1977,7 +1977,7 @@
             "open_issues": 16,
             "owner": "vlmaps",
             "repo": "vlmaps",
-            "stars": 731,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2160,10 +2160,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T21:33:34Z",
-            "open_issues": 170,
+            "open_issues": 173,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30146,
+            "stars": 30150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2212,7 +2212,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3477,
+            "stars": 3478,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -2257,7 +2257,7 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T07:57:25Z",
+            "last_commit": "2026-11-01T02:52:31Z",
             "open_issues": 311,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
@@ -2412,7 +2412,7 @@
             "open_issues": 0,
             "owner": "declare-lab",
             "repo": "RoboQuest",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -2535,10 +2535,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-31T13:16:56Z",
-            "open_issues": 170,
+            "open_issues": 177,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1420,
+            "stars": 1431,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -2565,7 +2565,7 @@
             "id": 1257863851,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T12:25:29Z",
+            "last_commit": "2026-11-01T14:10:50Z",
             "open_issues": 1,
             "owner": "provael",
             "repo": "provael",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:53:12.936Z",
+    "last_updated": "2026-11-01T20:26:09.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
