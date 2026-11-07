@@ -27,7 +27,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Surveys
 
 * "Foundation Models in Robotics: Applications, Challenges, and the Future", *arXiv, Dec 2023*, \[[Paper](https://arxiv.org/abs/2312.07843)] \[[Paper List](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ⭐ 1,423 | 🐛 3 | 📅 2024-10-07]
-* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *arXiv, Dec 2023*. \[[Paper](https://arxiv.org/abs/2312.08782)] \[[Paper List](https://github.com/JeffreyYH/robotics-fm-survey) ⭐ 472 | 🐛 0 | 📅 2026-06-25] \[[Website](https://robotics-fm-survey.github.io/)]
+* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *arXiv, Dec 2023*. \[[Paper](https://arxiv.org/abs/2312.08782)] \[[Paper List](https://github.com/JeffreyYH/robotics-fm-survey) ⭐ 472 | 🐛 1 | 📅 2026-06-25] \[[Website](https://robotics-fm-survey.github.io/)]
 * "No Free Checker: A Survey of Verifiers for Robot Policies", *arXiv, Sep 2026*, \[[Paper](https://arxiv.org/abs/2609.09250)] \[[Paper List](https://github.com/ZJUSCL/Awesome-Robot-Verifier) ⭐ 17 | 🐛 0 | 🌐 HTML | 📅 2026-11-04] \[[Website](https://zjuscl.github.io/Awesome-Robot-Verifier/)]
 * "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *arXiv, May 2026*, \[[Paper](https://arxiv.org/abs/2605.02900)] \[[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings", *IJCAI, Aug 2024*, \[[Paper](https://arxiv.org/abs/2405.13245)]
@@ -42,8 +42,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Reasoning
 
-* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sep 2022*. \[[Paper](https://arxiv.org/abs/2209.07753)]  \[[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies) ⭐ 39,122 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06] \[[Website](https://code-as-policies.github.io/)]
-* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. \[[Paper](https://arxiv.org/abs/2304.03442v1)] \[[Code](https://github.com/joonspk-research/generative_agents) ⭐ 22,353 | 🐛 147 | 📅 2024-08-05]
+* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sep 2022*. \[[Paper](https://arxiv.org/abs/2209.07753)]  \[[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies) ⭐ 39,127 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06] \[[Website](https://code-as-policies.github.io/)]
+* **Generative Agents**: "Generative Agents: Interactive Simulacra of Human Behavior", *arXiv, Apr 2023*. \[[Paper](https://arxiv.org/abs/2304.03442v1)] \[[Code](https://github.com/joonspk-research/generative_agents) ⭐ 22,356 | 🐛 147 | 📅 2024-08-05]
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", *arXiv, Dec 2022*. \[[Paper](https://arxiv.org/abs/2212.06817)]  \[[GitHub](https://github.com/google-research/robotics_transformer) ⚠️ Archived] \[[Website](https://robotics-transformer.github.io/)]
 * **Robogen**: "A generative and self-guided robotic agent that endlessly propose and master new skills.", *arXiv, Nov 2023*. \[[Paper](https://arxiv.org/abs/2311.01455)] \[[Code](https://github.com/Genesis-Embodied-AI/RoboGen) ⭐ 1,231 | 🐛 6 | 🌐 Python | 📅 2024-05-31] \[[Website](https://robogen-ai.github.io/)]
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. \[[Paper](https://arxiv.org/abs/2409.01652)] \[[Code](https://github.com/huangwl18/ReKep) ⭐ 995 | 🐛 37 | 🌐 Python | 📅 2025-02-20] \[[Website](https://rekep-robot.github.io)]
@@ -143,8 +143,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Manipulation
 
-* **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, Jun 2025*. \[[Paper](https://arxiv.org/abs/2506.01844)] \[[Code](https://github.com/huggingface/lerobot) ⭐ 28,722 | 🐛 912 | 🌐 Python | 📅 2026-11-06]
-* **VOYAGER**: "VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Pytorch Code](https://github.com/MineDojo/Voyager) ⭐ 7,315 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03] \[[Website](https://voyager.minedojo.org/)]
+* **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, Jun 2025*. \[[Paper](https://arxiv.org/abs/2506.01844)] \[[Code](https://github.com/huggingface/lerobot) ⭐ 28,733 | 🐛 914 | 🌐 Python | 📅 2026-11-07]
+* **VOYAGER**: "VOYAGER: An Open-Ended Embodied Agent with Large Language Models", *arXiv, May 2023*. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Pytorch Code](https://github.com/MineDojo/Voyager) ⭐ 7,317 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03] \[[Website](https://voyager.minedojo.org/)]
 * **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *arXiv, Sep 2025*. \[[Paper](https://arxiv.org/abs/2509.11766)] \[[Code](https://github.com/X-Square-Robot/wall-x) ⭐ 1,313 | 🐛 54 | 🌐 Python | 📅 2026-09-18]
 * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", *arXiv, Oct 2022*, \[[Paper](https://arxiv.org/abs/2210.03094)] \[[Pytorch Code](https://github.com/vimalabs/VIMA) ⭐ 857 | 🐛 14 | 🌐 Python | 📅 2024-04-18] \[[Website](https://vimalabs.github.io/)]
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", *CoRL, Sep 2021*. \[[Paper](https://arxiv.org/abs/2109.12098)] \[[Pytorch Code](https://github.com/cliport/cliport) ⭐ 548 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-11-02] \[[Website](https://cliport.github.io/)]
@@ -238,11 +238,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Simulation Frameworks
 
-* **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. \[[Code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,190 | 🐛 164 | 🌐 Python | 📅 2026-11-06]
+* **GENESIS**: "A generative world for general-purpose robotics & embodied AI learning.", *arXiv, Nov 2023*. \[[Code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,195 | 🐛 174 | 🌐 Python | 📅 2026-11-07]
 * **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", *NeurIPS, Dec 2021*. \[[Paper](https://arxiv.org/abs/2106.14405)] \[[Code](https://github.com/facebookresearch/habitat-sim) ⚠️ Archived] \[[Website](https://aihabitat.org/)]
-* **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arXiv, Oct 2024*. \[[Paper](https://arxiv.org/abs/2410.00425)] \[[Code](https://github.com/haosulab/ManiSkill) ⭐ 3,495 | 🐛 167 | 🌐 Python | 📅 2026-08-04] \[[Website](http://maniskill.ai/)]
+* **ManiSkill3**: "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.", *arXiv, Oct 2024*. \[[Paper](https://arxiv.org/abs/2410.00425)] \[[Code](https://github.com/haosulab/ManiSkill) ⭐ 3,498 | 🐛 167 | 🌐 Python | 📅 2026-08-04] \[[Website](http://maniskill.ai/)]
 * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", *arXiv, Jun 2022*. \[[Paper](https://arxiv.org/abs/2206.08853)] \[[Code](https://github.com/MineDojo/MineDojo) ⭐ 2,283 | 🐛 82 | 🌐 Java | 📅 2024-03-18] \[[Website](https://minedojo.org/)] \[[Open Database](https://minedojo.org/knowledge_base.html)]
-* **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine", *6th Annual Conference on Robot Learning, 2022*. \[[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] \[[Code](https://github.com/StanfordVL/OmniGibson) ⭐ 1,796 | 🐛 315 | 🌐 Python | 📅 2026-11-06]
+* **OmniGibson**: "OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine", *6th Annual Conference on Robot Learning, 2022*. \[[Paper](https://openreview.net/forum?id=_8DoIe8G3t)] \[[Code](https://github.com/StanfordVL/OmniGibson) ⭐ 1,796 | 🐛 316 | 🌐 Python | 📅 2026-11-07]
 * **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", *IROS, Sep 2021*. \[[Paper](https://arxiv.org/abs/2012.02924)] \[[Code](https://github.com/StanfordVL/iGibson) ⭐ 819 | 🐛 139 | 🌐 Python | 📅 2024-06-26] \[[Website](https://svl.stanford.edu/igibson/)]
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", *ICLR, May 2019*. \[[Paper](https://arxiv.org/abs/1810.08272)] \[[Code](https://github.com/mila-iqia/babyai/tree/iclr19) ⭐ 772 | 🐛 15 | 🌐 Python | 📅 2023-10-01]
 * **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", *CVPR, Jun 2020*. \[[Paper](https://arxiv.org/abs/1912.01734)] \[[Code](https://github.com/askforalfred/alfred) ⭐ 533 | 🐛 23 | 🌐 C | 📅 2026-02-05] \[[Website](https://askforalfred.com/)]
@@ -270,8 +270,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Libraries and Tools
 
-* **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. \[[Code](https://github.com/verl-project/verl-omni) ⭐ 1,470 | 🐛 178 | 🌐 Python | 📅 2026-11-06] \[[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
-* **Provael**: Adversarial evaluation for vision-language-action policies: attack families, a benign control arm, and a signed leaderboard. Simulation only. \[[Code](https://github.com/provael/provael) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-11-06] \[[Docs](https://docs.provael.com)] \[[Website](https://www.provael.com)]
+* **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. \[[Code](https://github.com/verl-project/verl-omni) ⭐ 1,471 | 🐛 178 | 🌐 Python | 📅 2026-11-07] \[[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+* **Provael**: Adversarial evaluation for vision-language-action policies: attack families, a benign control arm, and a signed leaderboard. Simulation only. \[[Code](https://github.com/provael/provael) ⭐ 7 | 🐛 8 | 🌐 Python | 📅 2026-11-07] \[[Docs](https://docs.provael.com)] \[[Website](https://www.provael.com)]
 
 ***
 
@@ -291,4 +291,4 @@ If you find this repository useful, please consider citing this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
