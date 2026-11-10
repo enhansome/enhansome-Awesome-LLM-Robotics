@@ -96,7 +96,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39145,
+            "stars": 39152,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 147,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22361,
+            "stars": 22366,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4273,
+            "stars": 4278,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 264,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -971,8 +971,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T21:30:01Z",
+            "open_issues": 24,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -992,8 +992,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T21:30:01Z",
+            "open_issues": 24,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1013,8 +1013,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T21:30:01Z",
+            "open_issues": 24,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1250,11 +1250,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T22:21:08Z",
-            "open_issues": 922,
+            "last_commit": "2026-11-10T17:40:29Z",
+            "open_issues": 931,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28774,
+            "stars": 28795,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7318,
+            "stars": 7320,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1301,7 +1301,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1319,
+            "stars": 1320,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1485,7 +1485,7 @@
             "open_issues": 6,
             "owner": "gen-robot",
             "repo": "RL4VLA",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -1537,33 +1537,6 @@
         },
         {
           "node_type": "item",
-          "title": "CLIP-Fields: \"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory\", arXiv, Oct 2022, [Paper",
-          "description": "] [PyTorch Code] [Website]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Teaching robots to respond to open-vocab queries with CLIP and NeRF-like neural fields",
-            "homepage": "https://mahis.life/clip-fields",
-            "id": 537105513,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-03-02T23:09:22Z",
-            "open_issues": 1,
-            "owner": "notmahi",
-            "repo": "clip-fields",
-            "stars": 192,
-            "topics": [
-              "clip",
-              "neural-fields",
-              "semantic-fields",
-              "semantic-navigation",
-              "sentence-bert"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:46.763Z"
-        },
-        {
-          "node_type": "item",
           "title": "Spotter: \"Spotter: Let the Embodied Model Lead, and the VLM Reflect for It\", arXiv, Sep 2026. [Paper",
           "description": "] [Code] [Website]",
           "children": [],
@@ -1578,7 +1551,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 190,
+            "stars": 194,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1594,6 +1567,33 @@
             ]
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CLIP-Fields: \"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory\", arXiv, Oct 2022, [Paper",
+          "description": "] [PyTorch Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Teaching robots to respond to open-vocab queries with CLIP and NeRF-like neural fields",
+            "homepage": "https://mahis.life/clip-fields",
+            "id": 537105513,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-03-02T23:09:22Z",
+            "open_issues": 1,
+            "owner": "notmahi",
+            "repo": "clip-fields",
+            "stars": 193,
+            "topics": [
+              "clip",
+              "neural-fields",
+              "semantic-fields",
+              "semantic-navigation",
+              "sentence-bert"
+            ]
+          },
+          "first_seen": "2026-08-29T00:31:46.763Z"
         },
         {
           "node_type": "item",
@@ -2159,11 +2159,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T15:07:53Z",
-            "open_issues": 165,
+            "last_commit": "2026-11-10T21:39:16Z",
+            "open_issues": 167,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30201,
+            "stars": 30208,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2212,7 +2212,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3501,
+            "stars": 3504,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -2240,7 +2240,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2283,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2257,8 +2257,8 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:30:33Z",
-            "open_issues": 317,
+            "last_commit": "2026-11-10T20:29:51Z",
+            "open_issues": 318,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
             "stars": 1797,
@@ -2534,11 +2534,11 @@
             "id": 1216947831,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T07:12:37Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-10T15:16:07Z",
+            "open_issues": 179,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1482,
+            "stars": 1487,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -2565,8 +2565,8 @@
             "id": 1257863851,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T14:00:15Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-10T14:50:43Z",
+            "open_issues": 3,
             "owner": "provael",
             "repo": "provael",
             "stars": 7,
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:08:41.476Z",
+    "last_updated": "2026-11-10T21:45:40.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2609,10 +2609,10 @@
       "language": null,
       "license": "BSD-3-Clause",
       "last_commit": "2026-10-29T04:41:10Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4500,
+      "stars": 4501,
       "topics": []
     },
     "original_repository_sha": "cf3ae761787adbb3fd0245c175bce5df88dc0c34",
