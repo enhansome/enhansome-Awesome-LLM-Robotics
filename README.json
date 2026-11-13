@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1424,
+            "stars": 1425,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2012,
+            "last_commit": "2026-11-13T17:37:12Z",
+            "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39162,
+            "stars": 39168,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 147,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22376,
+            "stars": 22377,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -205,7 +205,7 @@
             "open_issues": 0,
             "owner": "jimmyyhwu",
             "repo": "tidybot",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "gpt-3",
               "large-language-models",
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4276,
+            "stars": 4277,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -681,7 +681,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-10-10T19:59:27.442Z"
@@ -833,7 +833,7 @@
             "open_issues": 2,
             "owner": "princeton-nlp",
             "repo": "calm-textgame",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "calm",
               "gpt",
@@ -1250,11 +1250,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T21:54:16Z",
-            "open_issues": 955,
+            "last_commit": "2026-11-13T21:16:21Z",
+            "open_issues": 962,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28844,
+            "stars": 28864,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7323,
+            "stars": 7325,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1301,7 +1301,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1321,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1516,6 +1516,39 @@
         },
         {
           "node_type": "item",
+          "title": "Spotter: \"Spotter: Let the Embodied Model Lead, and the VLM Reflect for It\", arXiv, Sep 2026. [Paper",
+          "description": "] [Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+            "homepage": "https://zqc3117.github.io/Spotter/",
+            "id": 1394348802,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-05T15:23:18Z",
+            "open_issues": 1,
+            "owner": "zqc3117",
+            "repo": "Spotter",
+            "stars": 202,
+            "topics": [
+              "embodied-ai",
+              "llm-agent",
+              "qwen",
+              "robocasa",
+              "robodojo",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "robotwin",
+              "runtime-monitoring-system",
+              "vlm-agent"
+            ]
+          },
+          "first_seen": "2026-10-29T21:00:08.907Z"
+        },
+        {
+          "node_type": "item",
           "title": "Plan4MC: \"Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks\", arXiv, Mar 2023. [Paper",
           "description": "] [Pytorch Code] [Website]",
           "children": [],
@@ -1534,39 +1567,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spotter: \"Spotter: Let the Embodied Model Lead, and the VLM Reflect for It\", arXiv, Sep 2026. [Paper",
-          "description": "] [Code] [Website]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-            "homepage": "https://zqc3117.github.io/Spotter/",
-            "id": 1394348802,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-05T15:23:18Z",
-            "open_issues": 1,
-            "owner": "zqc3117",
-            "repo": "Spotter",
-            "stars": 198,
-            "topics": [
-              "embodied-ai",
-              "llm-agent",
-              "qwen",
-              "robocasa",
-              "robodojo",
-              "robot-learning",
-              "robot-manipulation",
-              "robotics",
-              "robotwin",
-              "runtime-monitoring-system",
-              "vlm-agent"
-            ]
-          },
-          "first_seen": "2026-10-29T21:00:08.907Z"
         },
         {
           "node_type": "item",
@@ -2159,11 +2159,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T22:10:24Z",
+            "last_commit": "2026-11-13T17:23:18Z",
             "open_issues": 157,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30218,
+            "stars": 30223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2209,7 +2209,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 168,
+            "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
             "stars": 3510,
@@ -2258,7 +2258,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-11T06:46:19Z",
-            "open_issues": 318,
+            "open_issues": 319,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
             "stars": 1798,
@@ -2312,7 +2312,7 @@
             "open_issues": 15,
             "owner": "mila-iqia",
             "repo": "babyai",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "imitation-learning",
               "nlp",
@@ -2540,11 +2540,11 @@
             "id": 1216947831,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T07:42:09Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-13T06:23:22Z",
+            "open_issues": 175,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1498,
+            "stars": 1504,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -2571,8 +2571,8 @@
             "id": 1257863851,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T06:23:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-13T21:16:33Z",
+            "open_issues": 3,
             "owner": "provael",
             "repo": "provael",
             "stars": 7,
@@ -2606,7 +2606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:11:30.844Z",
+    "last_updated": "2026-11-13T21:54:51.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
