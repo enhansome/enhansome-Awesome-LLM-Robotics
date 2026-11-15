@@ -96,7 +96,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39175,
+            "stars": 39182,
             "topics": [
               "ai",
               "machine-learning",
@@ -121,7 +121,7 @@
             "open_issues": 147,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22380,
+            "stars": 22386,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4278,
+            "stars": 4280,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -971,7 +971,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
+            "last_commit": "2026-11-15T12:10:47Z",
             "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -992,7 +992,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
+            "last_commit": "2026-11-15T12:10:47Z",
             "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -1013,7 +1013,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
+            "last_commit": "2026-11-15T12:10:47Z",
             "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -1250,11 +1250,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T11:35:42Z",
-            "open_issues": 970,
+            "last_commit": "2026-11-15T03:31:00Z",
+            "open_issues": 973,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28879,
+            "stars": 28895,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7325,
+            "stars": 7328,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1526,11 +1526,11 @@
             "id": 1394348802,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T15:23:18Z",
+            "last_commit": "2026-11-15T11:15:08Z",
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 204,
+            "stars": 210,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -2159,11 +2159,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T17:23:18Z",
+            "last_commit": "2026-11-15T19:26:38Z",
             "open_issues": 157,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30225,
+            "stars": 30230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2212,7 +2212,7 @@
             "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3512,
+            "stars": 3515,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -2240,7 +2240,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2283,
+            "stars": 2284,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2312,7 +2312,7 @@
             "open_issues": 15,
             "owner": "mila-iqia",
             "repo": "babyai",
-            "stars": 772,
+            "stars": 773,
             "topics": [
               "imitation-learning",
               "nlp",
@@ -2360,7 +2360,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -2541,10 +2541,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T11:37:58Z",
-            "open_issues": 174,
+            "open_issues": 178,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1514,
+            "stars": 1520,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -2571,7 +2571,7 @@
             "id": 1257863851,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:17:02Z",
+            "last_commit": "2026-11-15T12:49:21Z",
             "open_issues": 1,
             "owner": "provael",
             "repo": "provael",
@@ -2606,7 +2606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:37:20.268Z",
+    "last_updated": "2026-11-15T20:58:36.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2618,7 +2618,7 @@
       "open_issues": 12,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4504,
+      "stars": 4505,
       "topics": []
     },
     "original_repository_sha": "cf3ae761787adbb3fd0245c175bce5df88dc0c34",
