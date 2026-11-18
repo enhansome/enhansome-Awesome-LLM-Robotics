@@ -65,8 +65,8 @@
             "id": 1340382909,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-04T02:58:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T09:02:43Z",
+            "open_issues": 0,
             "owner": "ZJUSCL",
             "repo": "Awesome-Robot-Verifier",
             "stars": 18,
@@ -92,11 +92,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:57:37Z",
+            "last_commit": "2026-11-18T22:14:55Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39208,
+            "stars": 39223,
             "topics": [
               "ai",
               "machine-learning",
@@ -118,10 +118,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T21:38:56Z",
-            "open_issues": 147,
+            "open_issues": 148,
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 22389,
+            "stars": 22392,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -184,7 +184,7 @@
             "open_issues": 37,
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 997,
+            "stars": 998,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -511,7 +511,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4284,
+            "stars": 4286,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -677,7 +677,7 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-11-14T05:14:57Z",
+            "last_commit": "2026-11-18T16:58:53Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
@@ -1130,7 +1130,7 @@
             "id": 1406103695,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:38:55Z",
+            "last_commit": "2026-11-18T06:16:00Z",
             "open_issues": 0,
             "owner": "declare-lab",
             "repo": "RoboQuest",
@@ -1250,11 +1250,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T21:07:27Z",
-            "open_issues": 983,
+            "last_commit": "2026-11-18T19:04:02Z",
+            "open_issues": 979,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28939,
+            "stars": 28967,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7331,
+            "stars": 7334,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1301,7 +1301,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1329,
+            "stars": 1332,
             "topics": []
           },
           "first_seen": "2026-10-29T21:00:08.907Z"
@@ -1530,7 +1530,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 219,
+            "stars": 223,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1738,7 +1738,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-07-16T07:07:34Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "worv-ai",
             "repo": "D2E",
             "stars": 96,
@@ -1977,7 +1977,7 @@
             "open_issues": 16,
             "owner": "vlmaps",
             "repo": "vlmaps",
-            "stars": 734,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2159,11 +2159,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:34:22Z",
-            "open_issues": 162,
+            "last_commit": "2026-11-18T22:23:44Z",
+            "open_issues": 156,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30248,
+            "stars": 30259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2184,7 +2184,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3849,
+            "stars": 3848,
             "topics": [
               "ai",
               "computer-vision",
@@ -2212,7 +2212,7 @@
             "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3523,
+            "stars": 3527,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -2257,11 +2257,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:31:31Z",
-            "open_issues": 317,
+            "last_commit": "2026-11-18T19:19:34Z",
+            "open_issues": 315,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1801,
+            "stars": 1802,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -2360,7 +2360,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -2408,7 +2408,7 @@
             "id": 1406103695,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:38:55Z",
+            "last_commit": "2026-11-18T06:16:00Z",
             "open_issues": 0,
             "owner": "declare-lab",
             "repo": "RoboQuest",
@@ -2496,7 +2496,7 @@
             "open_issues": 5,
             "owner": "Zxy-MLlab",
             "repo": "BadVLA",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:46.763Z"
@@ -2540,11 +2540,11 @@
             "id": 1216947831,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T09:40:39Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-18T11:31:13Z",
+            "open_issues": 178,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1537,
+            "stars": 1550,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -2571,7 +2571,7 @@
             "id": 1257863851,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:37:47Z",
+            "last_commit": "2026-11-18T14:13:56Z",
             "open_issues": 1,
             "owner": "provael",
             "repo": "provael",
@@ -2606,7 +2606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:27:50.434Z",
+    "last_updated": "2026-11-18T22:54:47.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
@@ -2618,7 +2618,7 @@
       "open_issues": 13,
       "owner": "GT-RIPL",
       "repo": "Awesome-LLM-Robotics",
-      "stars": 4504,
+      "stars": 4503,
       "topics": []
     },
     "original_repository_sha": "cf3ae761787adbb3fd0245c175bce5df88dc0c34",
